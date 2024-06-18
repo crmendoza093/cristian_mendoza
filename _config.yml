@@ -1,0 +1,17 @@
+# Setup
+title:            Cristian Mendoza
+tagline:          'Portfolio'
+description:      'I am Software developer at <a href="https://www.buk.cl/" target="_blank">Buk</a>. I work as backend in Ruby on Rails and My purpose is to make technology work for me.'
+url:              https://cristianmendoza.com
+baseurl:          /
+
+author:
+  name:           'Cristian Mendoza'
+  email:          'crmendoza093@gmail.com'
+  url:            https://
+
+paginate:         5
+
+# Custom vars
+email:          'crmendoza093@gmail.com'
+city:           'Bogotá, CO'
