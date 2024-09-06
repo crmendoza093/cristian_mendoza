@@ -15,3 +15,6 @@ paginate:         5
 # Custom vars
 email:          'crmendoza093@gmail.com'
 city:           'Bogotá, CO'
+
+apps:
+  amortizacion: 'https://amortizacion.vercel.app/'
